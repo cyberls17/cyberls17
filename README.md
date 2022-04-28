@@ -1,8 +1,9 @@
 ### 안녕하세요! cyberls17 이라고 합니다
 
-#### 서울여자대학교 정보보호영재교육원 고등기초/심화 수료
-#### 서울여자대학교 정보보호영재교육원 고등전문 B 교육생
+#### 서울여자대학교 정보보호영재교육원 8기 고등기초/심화 수료생
+#### 서울여자대학교 정보보호영재교육원 9기 고등전문 B 교육생
 
+facebook: https://www.facebook.com/cyberls17/
 <!--
 **cyberls17/cyberls17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
