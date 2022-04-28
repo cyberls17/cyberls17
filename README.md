@@ -1,8 +1,7 @@
 ### 안녕하세요!
 
-세명컴퓨터고등학교 스마트보안솔루션과 재학중
-서울여자대학교 정보보호영재교육원 고등기초/심화 수료
-서울여자대학교 정보보호영재교육원 고등전문 B 교육생
+#### 서울여자대학교 정보보호영재교육원 고등기초/심화 수료
+#### 서울여자대학교 정보보호영재교육원 고등전문 B 교육생
 
 <!--
 **cyberls17/cyberls17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
