@@ -4,7 +4,7 @@
 서울여자대학교 정보보호영재교육원 9기 고등전문 B 교육생<br>
 
 facebook: https://www.facebook.com/cyberls17/<br>
-blog: cyberls17.kro.kr
+blog: https://cyberls17.kro.kr/<br>
 <!--
 **cyberls17/cyberls17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
